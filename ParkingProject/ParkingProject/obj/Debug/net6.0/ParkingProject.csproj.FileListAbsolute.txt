@@ -1,0 +1,14 @@
+C:\Users\samri\source\repos\ParkingProject\ParkingProject\bin\Debug\net6.0\ParkingProject.exe
+C:\Users\samri\source\repos\ParkingProject\ParkingProject\bin\Debug\net6.0\ParkingProject.deps.json
+C:\Users\samri\source\repos\ParkingProject\ParkingProject\bin\Debug\net6.0\ParkingProject.runtimeconfig.json
+C:\Users\samri\source\repos\ParkingProject\ParkingProject\bin\Debug\net6.0\ParkingProject.dll
+C:\Users\samri\source\repos\ParkingProject\ParkingProject\bin\Debug\net6.0\ParkingProject.pdb
+C:\Users\samri\source\repos\ParkingProject\ParkingProject\obj\Debug\net6.0\ParkingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samri\source\repos\ParkingProject\ParkingProject\obj\Debug\net6.0\ParkingProject.AssemblyInfoInputs.cache
+C:\Users\samri\source\repos\ParkingProject\ParkingProject\obj\Debug\net6.0\ParkingProject.AssemblyInfo.cs
+C:\Users\samri\source\repos\ParkingProject\ParkingProject\obj\Debug\net6.0\ParkingProject.csproj.CoreCompileInputs.cache
+C:\Users\samri\source\repos\ParkingProject\ParkingProject\obj\Debug\net6.0\ParkingProject.dll
+C:\Users\samri\source\repos\ParkingProject\ParkingProject\obj\Debug\net6.0\refint\ParkingProject.dll
+C:\Users\samri\source\repos\ParkingProject\ParkingProject\obj\Debug\net6.0\ParkingProject.pdb
+C:\Users\samri\source\repos\ParkingProject\ParkingProject\obj\Debug\net6.0\ParkingProject.genruntimeconfig.cache
+C:\Users\samri\source\repos\ParkingProject\ParkingProject\obj\Debug\net6.0\ref\ParkingProject.dll
